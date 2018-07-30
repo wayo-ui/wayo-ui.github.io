@@ -1,0 +1,21 @@
+{
+  "name": "wayo-ui.github.io",
+  "version": "0.0.1",
+  "description": "wayo official site",
+  "scripts": {
+    "dev": "jekyll serve --incremental"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayo-ui/wayo-ui.github.io.git"
+  },
+  "keywords": [
+    "wayo",
+    "vue"
+  ],
+  "author": "zhoujunpeng <rico.zjp@gmail.com> (https://github.com/zhoujunpeng)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wayo-ui/wayo-ui.github.io/issues"
+  }
+}

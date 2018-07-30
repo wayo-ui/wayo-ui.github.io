@@ -1,1 +1,12 @@
-theme: jekyll-theme-time-machine
+# Site settings
+title: Wayo - 轻量的移动端Vue组件
+email: zjp0432@163.com
+description: "轻量的移动端Vue组件"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://wayo-ui.github.io" # the base hostname & protocol for your site
+github_username:  zhoujunpeng
+github_team: wayo-ui
+
+# Build settings
+markdown: kramdown
+exclude: ['node_modules']
