@@ -5,6 +5,7 @@ html,body{
 }
 body{
   padding-top: 70px;
+  background-color: #fcfcfc;
 }
 .content{
   text-align: center;
@@ -12,6 +13,11 @@ body{
   top: 30%;
   left: 50%;
   transform: translateX(-50%);
+}
+.logo{
+  width: 80px;
+  display: block;
+  margin: 0 auto;
 }
 .title{
   height: 40px;
